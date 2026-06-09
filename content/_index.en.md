@@ -1,4 +1,32 @@
+
+## she/her • 19 • system administrator • programmer • privacy advocate • public transport geek
+
 Hello! I'm Emma, my here you can see my ramblings and various posts about various subjects.
+
+## Contact
+* Signal: @knijn.48
+* Matrix: @knijn:catgirl.cloud
+* Discord: [emmaknijn](https://discord.com/users/259973943060856833)
+* GitHub: [EmmaKnijn](https://github.com/emmaknijn)
+* YouTube: [emmanamoment](https://youtube.com/@emmanamoment)
+* Email: [emma@knijn.one](mailto:emma@knijn.one)
+
+## Skills
+### Tech
+* Linux Server Administration and Networking
+* Git
+* CloudFlare
+* Computer troubleshooting / building
+* Tailscale VPN
+### Programming
+* Lua
+* NodeJS
+* HTML/CSS
+### Creative
+* Video Editing in Adobe Premiere Pro
+* Meme and Video Restoration in Adobe Premiere Pro
+* Audio Engineering (hobby level)
+
 
 Please note that not every article is available in Dutch, and also not every article is available in English. 
 

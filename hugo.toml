@@ -12,7 +12,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 5
 
   # show selector to switch language
   showLanguageSelector = true
@@ -65,7 +65,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Emma's Blog"
+    title = "Emma's Page"
 
     [languages.en.params]
       subtitle = "Emma's humble infodump"
@@ -83,7 +83,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Emma's Blog"
+        logoText = "Emma's Page"
         logoHomeLink = "/"
 
         [[languages.en.menu.main]]
@@ -92,12 +92,24 @@ pagination.pagerSize = 5
           url = "/"
 
         [[languages.en.menu.main]]
-          identifier = "site"
-          name = "Main Website"
-          url = "https://knijn.one"
+          identifier = "services"
+          name = "Public Services"
+          url = "/services"
+
+        [[languages.en.menu.main]]
+          identifier = "space"
+          name = "knijn.space"
+          url = "https://knijn.space"
+
+        [[languages.en.menu.main]]
+          identifier = "ov"
+          name = "Public Transport"
+          url = "https://ov.knijn.one"
+        
+
   [languages.nl]
     languageName = "Nederlands"
-    title = "Emma's Blog"
+    title = "Emma's Pagina"
 
     [languages.nl.params]
       subtitle = "Emma's humble infodump"
@@ -124,9 +136,20 @@ pagination.pagerSize = 5
           url = "/nl/"
 
         [[languages.nl.menu.main]]
-          identifier = "site"
-          name = "Primaire Website"
-          url = "https://knijn.one"
+          identifier = "services"
+          name = "Openbare Services"
+          url = "/services"
+
+        [[languages.nl.menu.main]]
+          identifier = "space"
+          name = "knijn.space"
+          url = "https://knijn.space"
+
+        [[languages.nl.menu.main]]
+          identifier = "ov"
+          name = "Openbaar Vervoer"
+          url = "https://ov.knijn.one"
+        
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
