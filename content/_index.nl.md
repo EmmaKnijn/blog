@@ -5,3 +5,5 @@ Niet alle posts zijn beschikbaar in het Nederlands, en sommige zijn niet beschik
 De broncode van dit blog is leesbaar op [GitHub](https://github.com/EmmaKnijn/blog). Dit is gelicenseerd onder All Rights Reserved (Alle rechten voorbehouden).
 
 Als je opmerkingen hebt, stuur ze me via de contactmethoden op mijn website. Als je naar mijn posts wil linken, voel je vrij! Vraag wel voor toestemming als je iets kopieert van deze paginas.
+
+Alles op deze pagina is mijn eigen, ongefilterde mening. Als je denkt dat ik ergens fout in zit, geef dit aan mij door. Op die manier leer ik ook iets nieuws!

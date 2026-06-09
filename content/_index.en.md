@@ -5,3 +5,5 @@ Please note that not every article is available in Dutch, and also not every art
 The source of this blog is readable on [GitHub](https://github.com/EmmaKnijn/blog). This is licensed under All Rights Reserved.
 
 If you have any remarks or comments, feel free to send me a message using the contact methods available on my main site. If you wish to link to any post on this blog, feel free. Please contact me before you *copy* any content on this page
+
+Everything here is my own, unfiltered opinion. If you think I am factually incorrect on something, *please* point this out. This way I can also learn something new!
