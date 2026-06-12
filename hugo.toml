@@ -99,7 +99,7 @@ pagination.pagerSize = 5
         [[languages.en.menu.main]]
           identifier = "space"
           name = "knijn.space"
-          url = "https://knijn.space"
+          url = "/space"
 
         [[languages.en.menu.main]]
           identifier = "ov"
@@ -143,7 +143,7 @@ pagination.pagerSize = 5
         [[languages.nl.menu.main]]
           identifier = "space"
           name = "knijn.space"
-          url = "https://knijn.space"
+          url = "/space"
 
         [[languages.nl.menu.main]]
           identifier = "ov"
