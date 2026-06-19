@@ -83,12 +83,12 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Emma's Page"
+        logoText = "knijn.space"
         logoHomeLink = "/"
 
         [[languages.en.menu.main]]
           identifier = "home"
-          name = "Home"
+          name = "knijn.one"
           url = "/"
 
         [[languages.en.menu.main]]
@@ -99,13 +99,7 @@ pagination.pagerSize = 5
         [[languages.en.menu.main]]
           identifier = "space"
           name = "knijn.space"
-          url = "/space"
-
-        [[languages.en.menu.main]]
-          identifier = "ov"
-          name = "Public Transport"
-          url = "https://ov.knijn.one"
-        
+          url = "https://knijn.space"    
 
   [languages.nl]
     languageName = "Nederlands"
@@ -132,23 +126,20 @@ pagination.pagerSize = 5
 
         [[languages.nl.menu.main]]
           identifier = "home"
-          name = "Home"
+          name = "knijn.one"
           url = "/nl/"
+        
+        [[languages.nl.menu.main]]
+          identifier = "space"
+          name = "knijn.space"
+          url = "https://knijn.space"
 
         [[languages.nl.menu.main]]
           identifier = "services"
           name = "Openbare Services"
           url = "/services"
 
-        [[languages.nl.menu.main]]
-          identifier = "space"
-          name = "knijn.space"
-          url = "/space"
 
-        [[languages.nl.menu.main]]
-          identifier = "ov"
-          name = "Openbaar Vervoer"
-          url = "https://ov.knijn.one"
         
 
 [module]
