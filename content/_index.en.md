@@ -1,7 +1,7 @@
 
 ## she/her • 19 • system administrator • programmer • privacy advocate • public transport geek
 
-Hello! I'm Emma, my here you can see my ramblings and various posts about various subjects.
+Hello! I'm Emma, here you can see my ramblings and various posts about various subjects.
 
 ## Contact
 * Signal: @knijn.48
