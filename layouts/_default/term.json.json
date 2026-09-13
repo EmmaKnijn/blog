@@ -1,0 +1,11 @@
+[
+{{- range $i, $p := (where .Pages "Type" "posts") }}
+{{- if $i }},{{ end }}
+{
+  "title": {{ .Title | jsonify }},
+  "url": {{ .Permalink | jsonify }},
+  "date": {{ .Date.Format "2006-01-02" | jsonify }},
+  "summary": {{ .Summary | plainify | truncate 200 | jsonify }}
+}
+{{- end }}
+]
