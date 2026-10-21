@@ -87,7 +87,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "knijn.space"
+        logoText = "knijn.one"
         logoHomeLink = "/"
 
         [[languages.en.menu.main]]
